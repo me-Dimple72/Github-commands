@@ -1,2 +1,3 @@
 # Github-commands
-small commands
+Useful commands
+
