@@ -2,3 +2,4 @@ To open file in vs code : open -a "Visual Studio Code" project_folder_name
 To navigate to previous folder : cd .. 
 Replace github with gitdiagram in the url of any github repo and see the Visual representation of everything.
 Replace github with gitingest in the url of any github repo and see the text form of everything.
+Replace github with gitreverse in the url of any github repo and see the prompt of the repo.
