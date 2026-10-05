@@ -1,1 +1,2 @@
 To open file in vs code : open -a "Visual Studio Code" project_folder_name
+To come to previous folder : cd .. 
